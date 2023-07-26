@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-07-26T13:11:58.445Z</updated>
+  <updated>2023-07-26T13:14:31.952Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -20,21 +20,22 @@
     <title>我真是服了左仁义这个狗</title>
     <link href="http://example.com/posts/undefined.html"/>
     <id>http://example.com/posts/undefined.html</id>
-    <published>2023-07-23T03:03:31.756Z</published>
-    <updated>2023-07-26T13:11:58.445Z</updated>
+    <published>2023-07-23T03:03:31.000Z</published>
+    <updated>2023-07-26T13:14:31.952Z</updated>
     
-    <content type="html"><![CDATA[<p>怎么会有人狗得像哪个明星样子，我真是服了。<br>和md艾尔海参一模一样<br>狗啊</p><p>date: 2023-07-23 13:03:31<br>tags:</p>]]></content>
+    <content type="html"><![CDATA[<p>怎么会有人狗得像这个样子，我真是服了。<br>和md艾尔海参一模一样<br>狗啊</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;怎么会有人狗得像哪个明星样子，我真是服了。&lt;br&gt;和md艾尔海参一模一样&lt;br&gt;狗啊&lt;/p&gt;
-&lt;p&gt;date: 2023-07-23 13:03:31&lt;br&gt;tags:&lt;/p&gt;
+    <summary type="html">&lt;p&gt;怎么会有人狗得像这个样子，我真是服了。&lt;br&gt;和md艾尔海参一模一样&lt;br&gt;狗啊&lt;/p&gt;
 </summary>
       
     
     
     
+    
+    <category term="狗" scheme="http://example.com/tags/%E7%8B%97/"/>
     
   </entry>
   
