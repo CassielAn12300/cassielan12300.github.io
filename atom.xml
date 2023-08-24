@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-07-26T13:14:31.952Z</updated>
+  <updated>2023-08-24T09:49:25.015Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,25 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我真是服了左仁义这个狗</title>
+    <title>我的代码在那，我失忆了</title>
     <link href="http://example.com/posts/undefined.html"/>
     <id>http://example.com/posts/undefined.html</id>
     <published>2023-07-23T03:03:31.000Z</published>
-    <updated>2023-07-26T13:14:31.952Z</updated>
+    <updated>2023-08-24T09:49:25.015Z</updated>
     
-    <content type="html"><![CDATA[<p>怎么会有人狗得像这个样子，我真是服了。<br>和md艾尔海参一模一样<br>狗啊</p>]]></content>
+    <content type="html"><![CDATA[<p>测试一下看看能不能<br>上个月做了一半的代码<br>不知道还能不能跑起来<br>失忆了</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;怎么会有人狗得像这个样子，我真是服了。&lt;br&gt;和md艾尔海参一模一样&lt;br&gt;狗啊&lt;/p&gt;
+    <summary type="html">&lt;p&gt;测试一下看看能不能&lt;br&gt;上个月做了一半的代码&lt;br&gt;不知道还能不能跑起来&lt;br&gt;失忆了&lt;/p&gt;
 </summary>
       
     
     
     
     
-    <category term="狗" scheme="http://example.com/tags/%E7%8B%97/"/>
+    <category term="失忆了" scheme="http://example.com/tags/%E5%A4%B1%E5%BF%86%E4%BA%86/"/>
     
   </entry>
   
